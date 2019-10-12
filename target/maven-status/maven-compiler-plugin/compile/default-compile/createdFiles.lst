@@ -1,0 +1,7 @@
+com\sapient\dao\Response.class
+com\sapient\dao\RestResponse.class
+com\sapient\dao\WeatherData.class
+com\sapient\dao\Result.class
+com\sapient\service\ForecastDataService.class
+com\sapient\dao\ForecastDataRetriever.class
+com\sapient\ws\ForecastDataController.class
