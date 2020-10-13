@@ -13,7 +13,7 @@
 	<properties>
 		<spring.version>4.3.2.RELEASE</spring.version>
 		<jdk.version>1.8</jdk.version>
-		<junit.version>4.5</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
 	<dependencies>
